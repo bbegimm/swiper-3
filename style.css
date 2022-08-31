@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.wrapper {
+}
+.page {
+}
+.page__product {
+    padding: 94px 0 114px;
+}
+.product {
+}
+.product__container {
+    max-width: 1259px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.product__swiper {
+    /* background-color: yellow; */
+    padding: 25px;
+}
+.swiper-product {
+}
+.swiper {
+}
+.mySwiper {
+}
+.swiper-product__content {
+   /* background-color: red; */
+   margin: 0 74px;
+   overflow: hidden;
+}
+.swiper-product__wrapper {
+}
+.swiper-wrapper {
+}
+.swiper-product__slide {
+    /* height: 600px; */
+}
+.swiper-slide {
+}
+.swiper-product__body {
+}
+.swiper-product__column {
+    flex: 0 1 33.333%;
+   
+}
+.swiper-product__item {
+    background-color: #E5E6E6;
+    height: 450px;
+}
+.item-swiper-product {
+}
+.item-swiper-product__title-block {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 31px 0;
+   
+}
+.item-swiper-product__title {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 133%;
+    color: #282828;
+}
+.item-swiper-product__title:not(:last-child) {
+    margin: 0 0 16px 0;
+}
+.item-swiper-product__btn {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 429%;
+    display: inline;
+    align-items: center;
+    text-align: center;
+    color: #1B1A1A;
+    text-decoration: none;
+    padding: 0 17px;
+    min-height: 43px;
+    border: 1px solid #000;
+
+}
+.item-swiper-product__img img {
+    max-width: 100%;
+    object-fit: cover;
+   
+}
+.swiper-button-next {
+}
+.swiper-button-prev {
+}
+.swiper-pagination {
+}
